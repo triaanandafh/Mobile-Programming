@@ -12,14 +12,18 @@ This practicum focuses on fundamental Dart programming concepts, including varia
 
 ## Visual Documentation (Output)
 Below is the evidence of the program execution:
+
 ![Screenshot Output](studiKasus1-3.png)
 
 ![Screenshot Output](studiKasus4.png)
 
 ![Screenshot Output](studiKasus5.png)
+
 ![Screenshot Output](Output_TugasPraktikum1.png)
-![Screenshot Output](Output_TugasPraktikum2.png)
+![Screenshot Output](Output_TugasPraktik2.png)
+
 ![Screenshot Output](Output_TugasPraktikum3.png)
+![Screenshot Output](Output_TantanganTambahan.png)
 
 
 ### Summary & Conclusion
