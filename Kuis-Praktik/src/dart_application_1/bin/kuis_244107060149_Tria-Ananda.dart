@@ -7,7 +7,7 @@ void main() {
   double nilaiUnikNIM = double.parse(nim.substring(9));
 
   // --- Variabel & Tipe Data ---
-  List<double> daftarHarga = [35000.0, 50000.0, 20000.0, 45000.0, 60000.0];
+  List<double> daftarHarga = [15000.0, 10000.0, 20000.0, 25000.0, 20000.0];
   daftarHarga.add(nilaiUnikNIM);
 
   // --- Perhitungan ---
