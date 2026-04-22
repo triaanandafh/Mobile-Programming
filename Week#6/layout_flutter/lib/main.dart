@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(  
-              'images/Oeschinen-lake.jpg',
+              'images/Oeshinen-lake.jpg',
               width: 600,
               height: 240,
               fit: BoxFit.cover,
@@ -64,7 +64,7 @@ Widget titleSection = Container(
                 ),
               ),
             ),
-            Text(
+            const Text(
               'Kandersteg, Switzerland',
               style: TextStyle(
                 color: Colors.grey,
@@ -74,7 +74,7 @@ Widget titleSection = Container(
         ),
       ),
       /* soal 3 */
-      Icon(
+      const Icon(
         Icons.star,
         color: Colors.red,
       ),
